@@ -1,0 +1,33 @@
+/* -------------------------------------header-----------------------------------------------------------*/
+/* navbar */
+nav a
+{
+    font-size: larger;
+}
+.blue
+{
+    color: #5984C3 !important;
+    font-size: 2rem;
+}
+.yellow
+{
+    color: #ff9A08 !important;
+    font-size: 2rem;
+}
+.left
+{
+    margin-left: auto;
+}
+/* header  */
+header
+{
+    height: 100Vh;
+    background-image: url(../assets/188870483_524751645602295_3009512810617327291_n.jpg);
+    background-size: 100% 100%;
+    background-position: center center;
+}
+.blacklayer
+{
+    height: 100%;
+    background-color:rgba(5, 5, 5, 0.7);
+}

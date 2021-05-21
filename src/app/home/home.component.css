@@ -1,0 +1,21 @@
+/* header-content  */
+.start-btn
+{
+    background-color: transparent;
+    color: #5984C3 !important ;
+    border: 2px solid white ;
+    border-radius: 12%;
+    font-size: 1.6rem;
+}
+.start-btn a
+{
+    text-decoration: none;
+}
+.start-btn :hover
+{
+    color: white;
+}
+.header-content h1
+{
+    font-size: 3rem;
+}
