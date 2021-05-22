@@ -1,0 +1,19 @@
+.fake
+{
+    color: #990000 !important;
+}
+.card
+{
+    background-color: #000000 !important;
+    color: blanchedalmond !important;
+    margin: 8px;
+}
+.cardfake
+{
+    border-left: #990000 1rem solid ;
+}
+.fakefont
+{
+    font-size: 7rem;
+    margin-bottom: 2rem;
+}

@@ -1,3 +1,5 @@
+import { FakeComponent } from './fake/fake.component';
+import { RealComponent } from './real/real.component';
 import { ResultComponent } from './result/result.component';
 import { SearchComponent } from './search/search.component';
 import { TrustedComponent } from './trusted/trusted.component';
@@ -14,7 +16,8 @@ const routes: Routes = [
   {path: 'home', component: HomeComponent   },
   {path: 'trusted', component: TrustedComponent},
   {path: 'search', component: SearchComponent},
-  {path: 'result', component: ResultComponent}
+  {path: 'real', component: RealComponent},
+  {path: 'fake', component: FakeComponent}
 ];
 
 

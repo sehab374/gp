@@ -10,6 +10,8 @@ import { TrustedComponent } from './trusted/trusted.component';
 import { AboutusComponent } from './aboutus/aboutus.component';
 import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
 import { HomeComponent } from './home/home.component';
+import { FakeComponent } from './fake/fake.component';
+import { RealComponent } from './real/real.component';
 
 @NgModule({
   declarations: [
@@ -19,7 +21,9 @@ import { HomeComponent } from './home/home.component';
     ResultComponent,
     TrustedComponent,
     AboutusComponent,
-    HomeComponent
+    HomeComponent,
+    FakeComponent,
+    RealComponent
   ],
   imports: [
     BrowserModule,
